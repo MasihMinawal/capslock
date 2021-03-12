@@ -72,3 +72,7 @@ export const sports = [
     categoryIconAltText: 'Boxen',
   },
 ]
+
+eine sehr gute aenderung-
+
+
