@@ -73,4 +73,4 @@ export const sports = [
   },
 ]
 
-hallihallo.svg
+ciao.svg
