@@ -72,5 +72,3 @@ export const sports = [
     categoryIconAltText: 'Boxen',
   },
 ]
-
-ciao.svg
