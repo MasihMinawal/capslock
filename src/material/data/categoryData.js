@@ -72,3 +72,5 @@ export const sports = [
     categoryIconAltText: 'Boxen',
   },
 ]
+
+hallihallo.svg
