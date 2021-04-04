@@ -1,0 +1,90 @@
+[33mcommit 2b331218f8aa08898a595b3a637ce4991c04e4cb[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 4c0b715 f5e3caf
+Author: MasihMinawal <80260366+MasihMinawal@users.noreply.github.com>
+Date:   Fri Mar 12 19:58:36 2021 +0100
+
+    Merge pull request #3 from MasihMinawal/test
+    
+    1955
+
+[33mcommit f5e3cafe77fd47a2017b4a81346f7fb4008ed640[m
+Merge: dbe7e9a 4c0b715
+Author: MasihMinawal <80260366+MasihMinawal@users.noreply.github.com>
+Date:   Fri Mar 12 19:58:26 2021 +0100
+
+    Merge branch 'main' into test
+
+[33mcommit dbe7e9a88e7d50d70fc0e81f178bc27670ba548c[m[33m ([m[1;31morigin/test[m[33m, [m[1;32mtest[m[33m)[m
+Author: unknown <masihminawal@gmail.com>
+Date:   Fri Mar 12 19:55:56 2021 +0100
+
+    1955
+
+[33mcommit 4c0b715cc671417e4ca65e66553f04be320055d2[m
+Author: unknown <masihminawal@gmail.com>
+Date:   Fri Mar 12 19:53:11 2021 +0100
+
+    statement
+
+[33mcommit 3a7f2ede2988cb6014e1726c81da2795a0f7b67e[m
+Merge: bdcdb9c 25b3968
+Author: MasihMinawal <80260366+MasihMinawal@users.noreply.github.com>
+Date:   Fri Mar 12 19:45:10 2021 +0100
+
+    Merge pull request #2 from MasihMinawal/deinembrancheinennamen
+    
+    ciao
+
+[33mcommit 25b3968c193e64373c06c2a01903f496099c076b[m[33m ([m[1;31morigin/deinembrancheinennamen[m[33m, [m[1;32mdeinembrancheinennamen[m[33m)[m
+Author: unknown <masihminawal@gmail.com>
+Date:   Fri Mar 12 19:42:54 2021 +0100
+
+    ciao
+
+[33mcommit bdcdb9ce4ad0202ada0b31643ed20cb91a11d9b0[m
+Merge: 8bf8fbc 4706a49
+Author: MasihMinawal <80260366+MasihMinawal@users.noreply.github.com>
+Date:   Fri Mar 12 19:37:54 2021 +0100
+
+    Merge pull request #1 from MasihMinawal/test
+    
+    hallo
+
+[33mcommit 4706a49f259b95aae629af213b1926ea6100c70e[m
+Author: unknown <masihminawal@gmail.com>
+Date:   Fri Mar 12 19:32:51 2021 +0100
+
+    hallo
+
+[33mcommit 8bf8fbc04aec3eb6452062ee2a9ddcbbd92bb529[m
+Merge: 13d7186 a473362
+Author: Abdullah Minawal <77300252+minawal@users.noreply.github.com>
+Date:   Thu Mar 11 05:44:14 2021 +0100
+
+    Merge pull request #3 from minawal/sport-categories
+    
+    Sport categories
+
+[33mcommit a47336228be0212db0972d4e54d0e3a5e71eaf54[m
+Author: Abdullah Minawal <abdullah.minawal@hotmail.de>
+Date:   Thu Mar 11 05:34:28 2021 +0100
+
+    sport-categories
+
+[33mcommit df605d3750617386d6b4dd8d252111bfa1fbbbf8[m
+Author: Abdullah Minawal <abdullah.minawal@hotmail.de>
+Date:   Wed Mar 10 09:02:45 2021 +0100
+
+    Add CategoryCards
+
+[33mcommit 13d71869de00054946f8c0a6a6404474a7fc5f65[m
+Author: Abdullah Minawal <abdullah.minawal@hotmail.de>
+Date:   Mon Mar 8 22:48:17 2021 +0100
+
+    initial commit
+
+[33mcommit 52fe2a724d9b0b60e45125bbfa4cd26890aa45f7[m
+Author: Abdullah Minawal <abdullah.minawal@hotmail.de>
+Date:   Mon Mar 8 21:43:10 2021 +0100
+
+    Initialize project using Create React App
